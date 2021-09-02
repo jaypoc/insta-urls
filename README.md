@@ -6,8 +6,8 @@ For now. There's this list:
 
 ## The Sites:
 
-* [CSS Layouts](csslayout.io) - CSS code for over 100 CSS layouts and components
-* [123Apps](123apps.com) - Online Audio/Video/PDF editing tools
+* [CSS Layouts](https://csslayout.io) - CSS code for over 100 CSS layouts and components
+* [123Apps](https://123apps.com) - Online Audio/Video/PDF editing tools
 * [Resoomer](https://resoomer.com/en/) - Paste in large text, recieve summarized version
 
 ... more to come

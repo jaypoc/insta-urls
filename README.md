@@ -4,4 +4,10 @@ Playing around with Instagram, I found a lot of individuals sharing "must-have" 
 
 For now. There's this list:
 
-## The URLs
+## The Sites:
+
+* [CSS Layouts](csslayout.io) - CSS code for over 100 CSS layouts and components
+* [123Apps](123apps.com) - Online Audio/Video/PDF editing tools
+* [Resoomer](https://resoomer.com/en/) - Paste in large text, recieve summarized version
+
+... more to come

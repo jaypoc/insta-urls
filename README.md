@@ -4,19 +4,19 @@ Playing around with Instagram, I found a lot of individuals sharing "must-have" 
 
 ## The Sites:
 
-* [CSS Layouts](https://csslayout.io) - CSS code for over 100 CSS layouts and components
 * [123Apps](https://123apps.com) - Online Audio/Video/PDF editing tools
-* [Resoomer](https://resoomer.com/en/) - Paste in large text, recieve summarized version
-* [Mixkit](https://mixkit.co/) - Free stock video/music assets
+* [CSS Layouts](https://csslayout.io) - CSS code for over 100 CSS layouts and components
 * [Hacksplaining](https://www.hacksplaining.com/) - Learn how to hack anything
-* [Spend Elon Musk'd Fortune](https://spend-elon-fortune.netlify.app/) - Fun, Spend Elon's Money
-* [Oh, Don't Forget](https://www.ohdontforget.com/) - Schedule SMS reminders
-* [Simply Noise](https://simplynoise.com/) - Free Color noise generator
 * [Import YETI](https://www.importyeti.com/) - Look up companys' suppliers
 * [Jitter](https://jitter.video/subscribe/) - Create custom motion graphics
-* [Vocal Remover](https://vocalremover.org/) - Remove vocals from MP3 files
+* [Mixkit](https://mixkit.co/) - Free stock video/music assets
+* [Oh, Don't Forget](https://www.ohdontforget.com/) - Schedule SMS reminders
 * [PhotoForensics](http://fotoforensics.com/) - Evaluate photos to determine if they are manipulated/photoshopped
- 
+* [Resoomer](https://resoomer.com/en/) - Paste in large text, recieve summarized version
+* [Simply Noise](https://simplynoise.com/) - Free Color noise generator
+* [Spend Elon Musk'd Fortune](https://spend-elon-fortune.netlify.app/) - Fun, Spend Elon's Money
+* [Vocal Remover](https://vocalremover.org/) - Remove vocals from MP3 files
+
 ## Needs review:
 
 * [Free WIFI Map](https://wifispc.com/) - Free WiFi Password Maps (Not working at time of addition.)

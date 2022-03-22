@@ -25,8 +25,3 @@ Playing around with Instagram, I found a lot of individuals sharing "must-have" 
 * [TinyWOW](https://tinywow.com) - Tools That Solve Your Files Problem (Document, Video, Image Converters)
 * [Vocal Remover](https://vocalremover.org/) - Remove vocals from MP3 files
 * [Yarn](https://yarn.co/) - Search for TV/movie clips by phrases
-
-## Needs review:
-
-* [Free WIFI Map](https://wifispc.com/) - Free WiFi Password Maps (Not working at time of addition.)
-... more to come

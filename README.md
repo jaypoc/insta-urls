@@ -5,7 +5,7 @@ Playing around with Instagram, I found a lot of individuals sharing "must-have" 
 ## The Sites:
 
 * [123Apps](https://123apps.com) - Online Audio/Video/PDF editing tools
-* [Classic Rewind](https://classicrewind.com) - Classic PC Games
+* [Classic Reload](https://classicreload.com) - Classic PC Games
 * [CSS Layouts](https://csslayout.io) - CSS code for over 100 CSS layouts and components
 * [FlowCV](https://flowcv.io) - Resume Designer
 * [Free Learning](https://freelearninglist.org/) - List of FREE learning resources on the Internet
